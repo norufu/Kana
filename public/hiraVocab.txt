@@ -1,0 +1,94 @@
+する:suru:to do
+です:desu:it is
+なに:nani:what
+わたし:watashi:i
+ひと:hito:person
+いう:iu:to say
+わかる:wakaru:to understand
+おまえ:omae:you
+くれる:kureru:to give
+それ:sore:that one
+これ:kore:this one
+あれ:are:that one(over there)
+どれ:dore:which one
+どこ:doko:where
+ここ:koko:here
+そこ:soko:there
+あなた:anata:you
+いきます:ikimasu:to go
+しりません:shirimasen:to not know
+とき:toki:time
+はなせる:hanaser:able to speak
+いきたい:ikitai:want to go
+まちます:machimasu:to wait
+だいじょうぶ:daijoubu:its ok
+じぶん:jibun:myself
+ありがとう:arigatou:thank you
+こんにちは:konnichiha:good day
+じかん:jikan:time
+もどる:modoru:to return
+にほんご:nihongo:japanese
+おなじ:onaji:same
+いっしょに:isshoni:together
+ほんとうに:hontouni:really?
+せんせい:sensei:teacher
+すぎる:sugiru:to be too much
+ひらがな:hiragana:hiragana
+かたかな:katakana:katakana
+かんじ:kanji:kanji
+ぼくたち:bokutachi:we
+しょうがない:shouganai:it cannot be helped
+わすれた:wasureta:forgot
+ともだち:tomodachi:friend
+なまえ:namae:name
+すし:sushi:sushi
+ぎゅうどん:gyuudon:beef bowl
+いっている:itteiru:going
+おかあさん:okaasan:mother
+おにいちゃん:oniichan:brother
+あした:ashita:tomorrow
+きょう:kyou:today
+すべて:subete:all
+どうして:doushite:why
+なぜ:naze:why
+たのしい:tanoshii:fun
+すき:suki:like
+きらい:kirai:dislike
+げんき:genki:healthy
+さよなら:sayonara:goodbye
+ことば:kotoba:word
+かんこくご:kankokugo:korean language
+ちゅうごく:chuugoku:china
+きめた:kimeta:decided
+どういう:douiu:what kind of
+だれか:dareka:somebody
+うんこ:unko:poop
+がいじん:gaijin:foreigner
+うれしい:ureshii:glad
+うまえ:umae:delicious/good
+おいしい:oishii:delicious
+かわいい:kawaii:cute
+こわい:kowai:scary
+ラジオ:rajio:radio
+タクシー:takushi-:taxi
+フライドポテト:furaidopoteto:french fry
+コーヒ:ko-hi:coffee
+パソコン:pasokon:laptop
+スマホ:sumaho:smartphone
+パトカー:patoka-:patrol car
+コンビニ:konbini:convenience store
+トランプ:toranpu:cards
+ペン:pen:pen
+マクドナルド:makudonarudo:mcdonalds
+アルバイト:arubaito:part time job
+ドキドキ:dokidoki:my heart goes dokidoki
+アパート:apa-to:apartment
+バス:basu:bus
+ベッド:beddo:bed
+ホテル:hoteru:hotel
+カップ:kappu:cup
+カレー:kare-:curry
+ナイフ:naifu:knife
+シャワー:shawa-:shower
+トイレ:toire:toilet
+ゼロ:zero:zero
